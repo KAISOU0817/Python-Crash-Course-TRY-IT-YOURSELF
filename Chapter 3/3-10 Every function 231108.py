@@ -1,0 +1,16 @@
+names = ['Elon Musk', 'Cook', 'Euler', "Einstein"]
+names.insert(0,'Jack Ma')
+names.insert(2,'Trump')
+names.append('Taylor')
+del names[0]
+names.pop()
+print (names)
+popped_name = names.pop()
+print (names)
+print (popped_name)
+names.remove('Trump')
+names.sort()
+print(names)
+names.sort(reverse=True)
+print(names)
+print(len(names))
