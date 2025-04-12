@@ -1,2 +1,2 @@
 # Python Crash Course A Hands-On, Project-Based Introduction to Programming (TRY IT YOURSELF)
-I’m a humanities student on a quest to learn Python and embark on a fascinating journey of self-discovery. This GitHub repository is a chronicle of my progress as I’ve taken the first steps into the world of programming. Throughout this journey, I’ve completed numerous small projects, each contributing to my growth and understanding of Python. 
+I'm a humanities student venturing into the world of Python and programming. This GitHub repository documents my learning journey as I take my first steps into coding. Along the way, I've built several small projects, each one helping me better understand Python and grow as a developer.
